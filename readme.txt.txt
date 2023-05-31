@@ -1,0 +1,1 @@
+just open whatsapp on your side tab and it should be logged in by your phone. This code uses just key automation because i could not afford paid api.
